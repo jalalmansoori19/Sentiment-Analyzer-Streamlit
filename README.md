@@ -1,2 +1,4 @@
 # Sentiment-Analyzer-Streamlit
-In Progress
+
+
+Detecting emotions from text using Logistic Regression Algorithm
